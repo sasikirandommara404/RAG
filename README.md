@@ -58,6 +58,4 @@ This project implements a Retrieval-Augmented Generation (RAG) pipeline using Pi
 - Adjust the embedding model in `vector_db.py` if needed
 - Modify the prompt template in `rag_pipeline.py` to change how the context is used
 
-## License
 
-MIT
